@@ -1,5 +1,5 @@
 # dsci-100-002-033
-DSCI 100 group orject
+DSCI 100 group project
 
 https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities
 
